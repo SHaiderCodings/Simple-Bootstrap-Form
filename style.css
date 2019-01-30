@@ -1,0 +1,31 @@
+#exampleInputEmail1{
+    width: 500px;
+}
+#exampleInputPassword1{
+    width: 500px;
+}
+    #name{
+    width: 500px;
+}
+#mydiv{
+    /* border: 2px solid black; */
+    height:auto;
+    width: 50%;
+    margin-left: 450px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+#myform{
+    /* border: 2px solid black; */
+    width: 50%;
+    margin-left: 350px;
+    
+}
+.form-group{
+padding-left: 120px;
+
+}
+#sub-butt{
+margin-left: 120px;
+}
